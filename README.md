@@ -1,4 +1,10 @@
 # Coin Flip Examples 🪙 
+Youtube Video: https://youtu.be/W7PCvUJ01xs
+
+Username: "1" Password: "1"
+
+Experience the thrill of flipping coins, with each toss imbued with the power of randomness sourced from the Near blockchain hash key. Plus, stay ahead of the game with the assurance that all future results will be securely stored on the Near blockchain.
+
 
 [![](https://img.shields.io/badge/⋈%20Examples-Basics-green)](https://docs.near.org/tutorials/welcome)
 [![](https://img.shields.io/badge/Contract-JS-yellow)](contract-ts)
